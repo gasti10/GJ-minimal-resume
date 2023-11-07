@@ -21,12 +21,6 @@ Live demo at https://jekyll-theme-minimal-resume.netlify.com/
 
 ***
 
-# Screenshot
-
-<p align="center">
-  <img src="https://github.com/murraco/jekyll-theme-minimal-resume/blob/master/screenshot.png" width="90%" />
-</p>
-
 # Quick Setup
 
 1. Install Jekyll: `gem install jekyll bundler`
@@ -41,7 +35,7 @@ You have to fill some informations on `_config.yml` to customize your site:
 ```yml
 description: A blog about lorem ipsum dolor sit amet
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://localhost:3000" # the base hostname & protocol for your site
+url: "https://gjouglard.com.ar" # the base hostname & protocol for your site
 ```
 
 ## User settings
