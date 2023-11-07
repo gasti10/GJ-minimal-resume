@@ -42,8 +42,8 @@ url: "https://gjouglard.com.ar" # the base hostname & protocol for your site
 ```yml
 username: Lorem Ipsum
 user_description: Software Engineer at Lorem Ipsum Dolor
-user_title: Mauricio Urraco
-email: mauriurraco@gmail.com
+user_title: Gaston Jouglard
+email: gastonjouglard.10@gmail.com
 ```
 
 > Don't forget to change your URL before you deploy your site!
