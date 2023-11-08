@@ -6,7 +6,7 @@ url: "localhost:3000" # the base hostname & protocol for your site e.g. http://w
 
 # User settings
 username: Gaston Jouglard
-user_description: I'm a Computer Engineer from Argentina, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in world of heavy equipment working with Wymaq, a Buenos Aires based startup trying to improve the world through digitizing the rental and management of heavy machinery. I'm the first engineer they hired to work on the platform.
+user_description: I am a Computer Engineer from Argentina, always searching for the next challenge; no task is too scary nor too difficult. With a strong background in software development spanning four years, I have been fully immersed in the world of heavy equipment, collaborating with Wymaq, a Buenos Aires-based startup. I'm the first engineer they hired to work on the platform, driving the digitization of the rental and management of heavy machinery in pursuit of making a positive impact on the world.
 user_title: Full Stack Developer
 email: gastonjouglard.10@gmail.com
 # twitter_username: lorem_ipsum
